@@ -169,7 +169,7 @@ Step 5  │  Agent's Executor calls adjustTroveInterestRate()
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/hypurrquant/snowball.git
+git clone https://github.com/Arun12-sketch/Creditcoin
 cd snowball
 pnpm install
 
