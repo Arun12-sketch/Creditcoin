@@ -193,15 +193,6 @@ docker compose up -d             # nginx + server + agent-server + usc-worker
 
 ---
 
-## Team
-
-**Hypurrquant** — DeFi-native builders since 2024
-
-| | Name | Role | Background |
-|---|------|------|-----------|
-| | **Kim HuiSang (HIK)** | Co-Founder / CEO | Financial Mathematics · DeFi strategist |
-| | **Noh Yuseong (NOYU)** | Co-Founder / CTO | Software Engineering · Infrastructure at scale |
-
 **Track Record:**
 
 ```
