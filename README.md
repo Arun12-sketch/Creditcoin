@@ -189,7 +189,7 @@ docker compose up -d             # nginx + server + agent-server + usc-worker
 > **Note:** Our AI Agent does **not** call LLM APIs directly. Instead, we run [Codex CLI](https://github.com/openai/codex) locally and route agent decisions through an HTTP proxy (`apps/claude-proxy`). This means:
 > - No API keys are stored in the project `.env`
 > - Codex CLI must be installed on the host machine running the proxy
-> - During demo, the agent's reasoning process is fully visible in the terminal — you can watch the LLM think and decide in real time
+> - During demo, the agent's reasoning process is fully visible in the terminal — you can watch the LLM think and decide in realtime
 
 ---
 
