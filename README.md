@@ -209,7 +209,3 @@ docker compose up -d             # nginx + server + agent-server + usc-worker
 
 ---
 
-<p align="center">
-  <sub>Built with Liquity V2 · Morpho Blue · Uniswap V3 · ERC-8004 · USC</sub>
-</p>
-# creditcoin
